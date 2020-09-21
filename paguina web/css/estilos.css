@@ -1,0 +1,17 @@
+h1{
+font-weight:normal;
+text-align:center;
+background:white;
+ }
+
+ h2{
+ 	font-weight:normal;
+ 	text-align:center;
+ 	background:white;
+ 	}
+ 
+prueba img/cabello4.png {
+  position: relative; 
+  
+  right: 10px; 
+}
